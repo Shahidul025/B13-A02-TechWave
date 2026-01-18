@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.font-work-sans{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+
+
+/* nav items */
+
+
+.nav-items{
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: #1A0B2E;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+   
+}
+
+.nav-items h2{
+    font-size: 30px;
+    color: white;
+    
+}
+
+.nav-items ul{
+    
+    align-items: center;
+}
